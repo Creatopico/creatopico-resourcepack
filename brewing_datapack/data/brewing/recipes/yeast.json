@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:potion",
+		"data": {
+			"CustomPotionColor": 16111226,
+            "display": {
+                "Name": "{\"text\":\"Сахарный сироп\"}"
+            }
+        }
+    },
+    "result": {
+		"item": "minecraft:pumpkin_seeds",
+		"data": {
+			"display": {
+				"Name": "{\"text\":\"Дрожжи\"}"
+			},
+			"Enchantments":[{}]
+		}
+	},
+    "experience": 0,
+    "cookingtime": 1000
+}

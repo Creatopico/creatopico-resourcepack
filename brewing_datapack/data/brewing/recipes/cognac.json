@@ -1,0 +1,26 @@
+{
+	"type": "nbtcrafting:brewing",
+	"base": {
+		"item": "minecraft:potion",
+        "data": {
+			"CustomPotionColor": 16777215,
+            "display": {
+                "Name": "{\"text\":\"Водка\"}"
+            },
+			"CustomPotionEffects":[{"Id":2,"Amplifier":4,"Duration":1200},{"Id":4,"Duration":1200},{"Id":9,"Duration":1200, "Amplifier":4}]
+        }
+	},
+	"ingredient": {
+		"item": "minecraft:oak_wood"   
+	},
+	"result": {
+		"item": "minecraft:potion",
+		"data": {
+			"CustomPotionColor": 12215808,
+			"display": {
+				"Name": "{\"text\":\"Коньяк\"}"
+			},
+			"CustomPotionEffects":[{"Id":2,"Amplifier":4,"Duration":2000},{"Id":4,"Duration":2000},{"Id":9,"Duration":2000, "Amplifier":4}]
+		}
+	}	
+}

@@ -1,0 +1,19 @@
+{
+    "type": "nbtcrafting:brewing",
+    "base": {
+        "item": "minecraft:potion"
+    },
+    "ingredient": {
+        "item": "minecraft:wheat"   
+    },
+    "result": {
+        "item": "minecraft:potion",
+        "data": {
+			"CustomPotionColor": 2818048,
+            "display": {
+                "Name": "{\"text\":\"Пивное сусло\"}"
+            },
+            "CustomPotionEffects":[{"Id":19,"Duration":400}]
+        }
+    }
+}

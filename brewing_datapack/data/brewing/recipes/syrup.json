@@ -1,0 +1,18 @@
+{
+    "type": "nbtcrafting:brewing",
+    "base": {
+        "potion": "water"
+    },
+    "ingredient": {
+        "item": "minecraft:sugar"   
+    },
+    "result": {
+        "item": "minecraft:potion",
+        "data": {
+			"CustomPotionColor": 16111226,
+            "display": {
+                "Name": "{\"text\":\"Сахарный сироп\"}"
+            }
+        }
+    }
+}
