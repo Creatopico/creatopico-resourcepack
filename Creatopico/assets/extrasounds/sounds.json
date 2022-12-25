@@ -1,0 +1,18 @@
+{
+  "action.bow": {
+    "replace": true,
+	"stream": true,
+    "sounds": [
+	"extrasounds:limbo/music/limbo",
+	"extrasounds:limbo/music/gravity",
+	"extrasounds:limbo/music/menu",
+	"extrasounds:limbo/music/sister"	]
+  },
+    "ambient.limbo.loop": {
+	"stream": true,
+    "sounds": [
+	"extrasounds:limbo/ambience/wind",
+	"extrasounds:limbo/ambience/forest"
+    ]
+  }
+}
