@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/template_spawn_egg_model",
     "textures": {
-        "texture": "minecraft:item/mooshroom_spawn_egg"
+        "texture": "creatopicodinosaurus:item/mooshroom_spawn_egg"
     },
     "overrides": [
         {

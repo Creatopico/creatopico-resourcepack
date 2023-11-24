@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "fon",
-		"1": "clubs/clubs-5",
+		"1": "creatopicocards:clubs/clubs-5",
 		"particle": "fon"
 	},
 	"elements": [

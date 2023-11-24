@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "fon",
-		"1": "diamonds/diamonds-q",
+		"1": "creatopicocards:diamonds/diamonds-q",
 		"particle": "fon"
 	},
 	"elements": [

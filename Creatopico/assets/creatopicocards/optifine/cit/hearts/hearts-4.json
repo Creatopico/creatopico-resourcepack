@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "fon",
-		"1": "hearts/hearts-4",
+		"1": "creatopicocards:hearts/hearts-4",
 		"particle": "fon"
 	},
 	"elements": [
