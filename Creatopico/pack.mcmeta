@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "Custom resource pack for Creatopico server"
-  }
+	"pack": {
+		"description": "Незаменимая часть Великой Креатопицы!",
+		"pack_format": 9
+	}
 }
+	

@@ -1,0 +1,55 @@
+{
+	"gui_light": "front",
+	"textures": {
+		"0": "optifine/cit/item/blaze_rod",
+		"particle": "optifine/cit/item/blaze_rod"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 8],
+			"to": [10, 8, 10],
+			"faces": {
+				"north": {"uv": [2, 2, 7, 10], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 10], "texture": "#0"},
+				"south": {"uv": [9, 2, 14, 10], "texture": "#0"},
+				"west": {"uv": [7, 2, 9, 10], "texture": "#0"},
+				"up": {"uv": [7, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 7, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [1, 4.25, -0.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [1, 4.25, -0.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -62, 12],
+			"translation": [2.75, 6.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -62, 12],
+			"translation": [2.75, 6.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"translation": [0.75, 5.5, 0],
+			"scale": [1.40039, 1.40039, 1.40039]
+		},
+		"fixed": {
+			"translation": [0.5, 4.5, -2.5],
+			"scale": [1.30703, 1.30703, 1.30703]
+		}
+	}
+}
